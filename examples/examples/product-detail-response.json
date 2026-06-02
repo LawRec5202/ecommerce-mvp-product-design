@@ -1,0 +1,30 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": {
+    "productId": 10001,
+    "productName": "Bluetooth Earphones",
+    "status": "ON_SALE",
+    "price": 19900,
+    "originalPrice": 29900,
+    "stock": 25,
+    "salesCount": 132,
+    "images": [
+      "https://example.com/product/10001/main.jpg"
+    ],
+    "skuList": [
+      {
+        "skuId": 20001,
+        "skuName": "White",
+        "price": 19900,
+        "stock": 10
+      },
+      {
+        "skuId": 20002,
+        "skuName": "Black",
+        "price": 20900,
+        "stock": 15
+      }
+    ]
+  }
+}
